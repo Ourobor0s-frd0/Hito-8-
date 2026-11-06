@@ -1,0 +1,7 @@
+.icon-container {
+	font-size: 32px;
+	cursor: pointer;
+}
+.icon-container:hover {
+  color: #ff6347; 
+}
